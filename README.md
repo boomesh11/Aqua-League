@@ -85,8 +85,8 @@ This project is open-source and available under the MIT License.
 ### Contact
 
 - **Developer**: Boomesh
-- **LinkedIn**: [linkedin.com/in/boomesh11](https://linkedin.com/in/boomesh11)
-- **Email**: boomesh11@example.com
+- **LinkedIn**: [linkedin.com/in/boomesh11](https://www.linkedin.com/in/boomeshrk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email**: rkboomesh@gmail.com.com
 
 ---
 
